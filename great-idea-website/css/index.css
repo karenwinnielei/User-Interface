@@ -65,14 +65,14 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 .container{
-	width: 90%;
-	margin: 0 auto;
+	width: 80%;
+	margin: 2% auto;
 	display: block;
 }
 
 .Beginning{
 	display: block;
-	margin: 1%;
+	width: 100%;
 }
 
 .navigation{
@@ -96,8 +96,7 @@ a {
 
 header {
 	display: block;
-	margin: 1%;
-	width: 98%;
+	width: 100%;
 	text-align: center;
 }
 
@@ -125,31 +124,33 @@ h1{
 
 .top-content{
 	display: block;
-	margin: 1%;
-	width: 98%;
+	padding: 0% 2%;
+	margin: 2%;
+	width: 92%;
 	border-top: 1px solid black;
 }
 
 .Features{
 	display: inline-block;
 	margin: 2%;
-	width: 44%;
+	width: 45%;
 }
 
 .About{
 	display: inline-block;
 	margin: 2%;
-	width: 44%;
+	width: 45%;
 }
 
 .middle-img {
-	width: 100%;
-	padding: 4%;
+	margin: 2%;
+	padding: 0% 2%;
+	width: 92%;
 }
 
 .bottom-content{
 	display: block;
-	margin: 1%;
+	padding: 0% 2%;
 	width: 98%;
 }
 
@@ -173,10 +174,14 @@ h1{
 .contact{
 	border-top: 1px solid black;
 	padding: 2%;
-	margin: 1%;
-	width: 98%;
+	margin: 2%;
+	width: 92%;
+	line-height: 2;
 }
 
+address{
+	line-height: 1;
+}
 footer{
 	text-align: center;
 }
