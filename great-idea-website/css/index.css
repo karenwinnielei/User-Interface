@@ -64,3 +64,119 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container{
+	width: 90%;
+	margin: 0 auto;
+	display: block;
+}
+
+.Beginning{
+	display: block;
+	margin: 1%;
+}
+
+.navigation{
+	display: inline-block;
+	margin: 1%;
+	width: 74%;
+}
+
+.logo{
+	display: inline-block;
+	margin: 1%;
+	width: 20%;
+	vertical-align: top;
+}
+
+a {
+	text-decoration: none;
+	color: grey;
+	padding: 5%;
+}
+
+header {
+	display: block;
+	margin: 1%;
+	width: 98%;
+	text-align: center;
+}
+
+.button{
+	display: inline-block;
+	border: 1px solid black;
+	padding: 1% 5%;
+}
+
+.Start {
+	display: inline-block;
+	margin: 2%;
+	width: 40%;	
+}
+
+.Code{
+	display: inline-block;
+	margin: 2%;
+	width: 40%;
+}
+
+h1{
+	font-size: 100px;
+}
+
+.top-content{
+	display: block;
+	margin: 1%;
+	width: 98%;
+	border-top: 1px solid black;
+}
+
+.Features{
+	display: inline-block;
+	margin: 2%;
+	width: 44%;
+}
+
+.About{
+	display: inline-block;
+	margin: 2%;
+	width: 44%;
+}
+
+.middle-img {
+	width: 100%;
+	padding: 4%;
+}
+
+.bottom-content{
+	display: block;
+	margin: 1%;
+	width: 98%;
+}
+
+.Services{
+	display: inline-block;
+	margin: 2%;
+	width: 28%;
+}
+
+.Product{
+	display: inline-block;
+	margin: 2%;
+	width: 28%;
+}
+
+.Vision{
+	display: inline-block;
+	margin: 2%;
+	width: 28%;
+}
+.contact{
+	border-top: 1px solid black;
+	padding: 2%;
+	margin: 1%;
+	width: 98%;
+}
+
+footer{
+	text-align: center;
+}
